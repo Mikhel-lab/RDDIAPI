@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XHYol3VPdKYA8Lmc0S8TgfawoHXx+Irt7MXHPO8/kI/7n58zKz5xIX9sYKBjKjyiePIu9cE5EGusRgoqCsJdKg==",
+  "dgSpecHash": "/JTV4r28LatmFuGS224py3eoPiBVK/NStUTOgjMDB5pb6BYxThvn+aqR5DeGelXNgdhiyopUILKHYc8cilkIpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Models\\RDDIntegration.Models.csproj",
+  "projectFilePath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Models\\RDDIntegration.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

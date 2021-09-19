@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nXO2jSb3xBQ4l0kNclcamXs9fOHMhjct42bRU3yJhxtJhUjT3qei+/E9i5S3+iJWBW36wiYafv9A6SPD7PNN/A==",
+  "dgSpecHash": "d5ycxkFcjGOS4CjQE3omKIl4SM0fRqy7+Hg+vX8cIThK5Q039q53qfbwYBPJp5htZwcgSDx5dMJMbLQPqfdv8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.API\\RDDIntegration.API.csproj",
+  "projectFilePath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.API\\RDDIntegration.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SDSD DEV7\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\SDSD DEV7\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

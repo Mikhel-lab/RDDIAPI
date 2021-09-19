@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.API\\RDDIntegration.API.csproj": {}
+    "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.API\\RDDIntegration.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.API\\RDDIntegration.API.csproj": {
+    "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.API\\RDDIntegration.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.API\\RDDIntegration.API.csproj",
+        "projectUniqueName": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.API\\RDDIntegration.API.csproj",
         "projectName": "RDDIntegration.API",
-        "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.API\\RDDIntegration.API.csproj",
+        "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.API\\RDDIntegration.API.csproj",
         "packagesPath": "C:\\Users\\SDSD DEV7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.API\\obj\\",
+        "outputPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,14 +35,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Models\\RDDIntegration.Models.csproj": {
-                "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Models\\RDDIntegration.Models.csproj"
+              "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Models\\RDDIntegration.Models.csproj": {
+                "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Models\\RDDIntegration.Models.csproj"
               },
-              "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Repository\\RDDIntegration.Repository.csproj": {
-                "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Repository\\RDDIntegration.Repository.csproj"
+              "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Repository\\RDDIntegration.Repository.csproj": {
+                "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Repository\\RDDIntegration.Repository.csproj"
               },
-              "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj": {
-                "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj"
+              "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj": {
+                "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Models\\RDDIntegration.Models.csproj": {
+    "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Models\\RDDIntegration.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Models\\RDDIntegration.Models.csproj",
+        "projectUniqueName": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Models\\RDDIntegration.Models.csproj",
         "projectName": "RDDIntegration.Models",
-        "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Models\\RDDIntegration.Models.csproj",
+        "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Models\\RDDIntegration.Models.csproj",
         "packagesPath": "C:\\Users\\SDSD DEV7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Models\\obj\\",
+        "outputPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -161,14 +161,14 @@
         }
       }
     },
-    "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Repository\\RDDIntegration.Repository.csproj": {
+    "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Repository\\RDDIntegration.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Repository\\RDDIntegration.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Repository\\RDDIntegration.Repository.csproj",
         "projectName": "RDDIntegration.Repository",
-        "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Repository\\RDDIntegration.Repository.csproj",
+        "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Repository\\RDDIntegration.Repository.csproj",
         "packagesPath": "C:\\Users\\SDSD DEV7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Repository\\obj\\",
+        "outputPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -192,11 +192,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Models\\RDDIntegration.Models.csproj": {
-                "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Models\\RDDIntegration.Models.csproj"
+              "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Models\\RDDIntegration.Models.csproj": {
+                "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Models\\RDDIntegration.Models.csproj"
               },
-              "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj": {
-                "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj"
+              "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj": {
+                "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj"
               }
             }
           }
@@ -239,14 +239,14 @@
         }
       }
     },
-    "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj": {
+    "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj",
         "projectName": "RDDIntegration.Utilities",
-        "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj",
+        "projectPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Utilities\\RDDIntegration.Utilities.csproj",
         "packagesPath": "C:\\Users\\SDSD DEV7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIntegration.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\SDSD DEV7\\source\\repos\\RDDIAPI\\RDDIntegration.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
