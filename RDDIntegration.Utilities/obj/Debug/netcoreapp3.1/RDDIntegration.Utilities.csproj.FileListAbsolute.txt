@@ -1,0 +1,9 @@
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Utilities\bin\Debug\netcoreapp3.1\RDDIntegration.Utilities.deps.json
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Utilities\bin\Debug\netcoreapp3.1\RDDIntegration.Utilities.dll
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Utilities\bin\Debug\netcoreapp3.1\RDDIntegration.Utilities.pdb
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Utilities\obj\Debug\netcoreapp3.1\RDDIntegration.Utilities.csprojAssemblyReference.cache
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Utilities\obj\Debug\netcoreapp3.1\RDDIntegration.Utilities.AssemblyInfoInputs.cache
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Utilities\obj\Debug\netcoreapp3.1\RDDIntegration.Utilities.AssemblyInfo.cs
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Utilities\obj\Debug\netcoreapp3.1\RDDIntegration.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Utilities\obj\Debug\netcoreapp3.1\RDDIntegration.Utilities.dll
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Utilities\obj\Debug\netcoreapp3.1\RDDIntegration.Utilities.pdb

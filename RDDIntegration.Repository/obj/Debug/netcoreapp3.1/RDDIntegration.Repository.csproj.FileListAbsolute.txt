@@ -1,0 +1,14 @@
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\bin\Debug\netcoreapp3.1\RDDIntegration.Repository.deps.json
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\bin\Debug\netcoreapp3.1\RDDIntegration.Repository.dll
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\bin\Debug\netcoreapp3.1\RDDIntegration.Repository.pdb
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\obj\Debug\netcoreapp3.1\RDDIntegration.Repository.csprojAssemblyReference.cache
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\obj\Debug\netcoreapp3.1\RDDIntegration.Repository.AssemblyInfoInputs.cache
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\obj\Debug\netcoreapp3.1\RDDIntegration.Repository.AssemblyInfo.cs
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\obj\Debug\netcoreapp3.1\RDDIntegration.Repository.csproj.CoreCompileInputs.cache
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\obj\Debug\netcoreapp3.1\RDDIntegration.Repository.dll
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\obj\Debug\netcoreapp3.1\RDDIntegration.Repository.pdb
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\bin\Debug\netcoreapp3.1\RDDIntegration.Models.dll
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\bin\Debug\netcoreapp3.1\RDDIntegration.Models.pdb
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\obj\Debug\netcoreapp3.1\RDDIntegration.Repository.csproj.CopyComplete
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\bin\Debug\netcoreapp3.1\RDDIntegration.Utilities.dll
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Repository\bin\Debug\netcoreapp3.1\RDDIntegration.Utilities.pdb

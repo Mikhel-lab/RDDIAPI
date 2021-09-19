@@ -1,0 +1,9 @@
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Models\bin\Debug\netcoreapp3.1\RDDIntegration.Models.deps.json
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Models\bin\Debug\netcoreapp3.1\RDDIntegration.Models.dll
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Models\bin\Debug\netcoreapp3.1\RDDIntegration.Models.pdb
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Models\obj\Debug\netcoreapp3.1\RDDIntegration.Models.csprojAssemblyReference.cache
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Models\obj\Debug\netcoreapp3.1\RDDIntegration.Models.AssemblyInfoInputs.cache
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Models\obj\Debug\netcoreapp3.1\RDDIntegration.Models.AssemblyInfo.cs
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Models\obj\Debug\netcoreapp3.1\RDDIntegration.Models.csproj.CoreCompileInputs.cache
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Models\obj\Debug\netcoreapp3.1\RDDIntegration.Models.dll
+C:\Users\SDSD DEV7\source\repos\RDDIntegration.Models\obj\Debug\netcoreapp3.1\RDDIntegration.Models.pdb
